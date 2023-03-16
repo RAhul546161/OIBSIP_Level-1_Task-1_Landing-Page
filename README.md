@@ -1,25 +1,26 @@
+
 # OIBSIP_Level-1_Task-1_Landing-Page
 
-A Demo Landing Page
+🚀 A Demo Landing Page
 
 
-## Tech Stack
+## 🌐👨‍💻 Tech Stack
 
-**Languages:** HTML, CSS, JS
+- **Languages:** HTML, CSS, JS
 
-**IDE:** Visual Studio Code
+- **IDE:** Visual Studio Code
 
 
-## Link of the Website
+## 🔗 Link of the Website
 
 https://rahul546161.github.io/OIBSIP_Level-1_Task-1_Landing-Page/
 
-## Screenshots
+## 📷 Screenshots
 
 ![Screenshot 2023-03-16 143352](https://user-images.githubusercontent.com/124900181/225572850-462835f6-91c9-4859-bc67-6cd561df0924.jpg)
 
 
-## Description about the Project
+## 👋 Description about the Project
 
 - Using HTML, CSS, JavaScript, and Visual Studio Code, I created a Landing Page Website. The website is designed for an academy called "Academy of Excellence," which offers job-ready technical courses such as Python, Data Science, and Web Development. The website also highlights an ongoing offer in these courses.
 
@@ -30,5 +31,4 @@ https://rahul546161.github.io/OIBSIP_Level-1_Task-1_Landing-Page/
 - I utilised HTML to structure the information, CSS to design the interface and make it aesthetically appealing, and JavaScript to integrate interactive elements like a responsive menu and a contact form on this website.
 
 - For this project, I used Microsoft Studio Code as my IDE of choice, which allowed me to create and edit code rapidly and effectively. The website is responsive, which means it adjusts to multiple screen sizes and devices, allowing users to view it through desktops, laptops, tablets, or smartphones.
-
 
